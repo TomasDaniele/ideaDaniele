@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 10px ;
+    background-color: none;
+    position: relative;
+    right: 4.5px;
+    display: flex;
+    justify-content: start;
+    }
+    header{
+        background-color: red;
+    }
+
+nav ul{
+    display: flex;
+    justify-content: start;
+}   
+
+nav ul li{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    margin: 1rem;
+    padding: 0.2rem;
+    border: 3px;
+    border-radius: 1rem;
+}
+nav ul li a{
+    background-color: red;
+    margin: 10px;
+    padding: 5px;
+    border: 3px;
+    border-radius: 3px;
+    color: white;
+}
+
+.Deportes{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: end;
+    margin: 5px;
+    padding: 0%;
+    
+}
+
+
+.remera1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.camperas1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.buzos1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.gorras1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+.imggorras{
+    padding: 10px;
+    margin: 10px;
+}
+
+.pantalones1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imgpant{
+    padding: 10px;
+    margin: 10px;
+}
+
+.medias1{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+        
+}
+
+.imgmedias{
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
